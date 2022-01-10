@@ -15,13 +15,19 @@ it't nothing really important
 
 -- item 3 of list
 
-``` sql
+```sql
 SELECT * FROM table;
 
 ```
-```sql
 
 ```sql
-Drop TABLE table;
+second code area
+```
+
 ```sql
+
+Drop TABLE table;
+
+```
+
 #### this is an example of header nnn
